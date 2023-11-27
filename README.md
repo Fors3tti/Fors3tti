@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/Fors3tti">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Fors3tti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannilmaciel&layout=compact&langs_count=16&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fors3tti&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
 ## Technologies I work with on a daily basis
